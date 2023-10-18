@@ -1,7 +1,7 @@
 # nanoparticle_dataset_sizing_LombardoPittnoGoldoniSelmi_EAAI
 dataset of simulated and measured samples for paper "Machine learning and data augmentation methods for multispectral capacitance images of nanoparticles with nanoelectrodes array biosensors", by F. Lombardo, F. Pittino, D. Goldoni, L. Selmi (https://www.sciencedirect.com/science/article/pii/S0952197623014306).
 
-If you use them please cite:
+**If you use them please cite:**
 F. Lombardo, F. Pittino, D. Goldoni, L. Selmi, "Machine learning and data augmentation methods for multispectral capacitance images of nanoparticles with nanoelectrodes array biosensors", Engineering Applications of Artificial Intelligence, Volume 127, Part A, 2024, 107246, ISSN 0952-1976, DOI: https://doi.org/10.1016/j.engappai.2023.107246.
 
 BibTeX:
